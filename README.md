@@ -1,0 +1,1 @@
+## go build -o enumer8 main.go
